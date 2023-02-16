@@ -1,6 +1,6 @@
 # Welcome to Greisman Robotics!
 
-![robot](logo-no-background.png)
+![robot](https://github.com/greismanrobotics/.github/blob/main/profile/logo-no-background.png)
 
 We are a team of roboticists and developers who build robotic solutions for clients and the open source community. Our goal is to make robots accessible to everyone and solve real-world problems through automation.
 
